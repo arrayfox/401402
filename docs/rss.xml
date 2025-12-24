@@ -1,2 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://arrayfox.github.io/401402</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arrayfox.github.io/401402</link></image><lastBuildDate>Wed, 24 Dec 2025 09:59:31 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>A Practical Guide to Exploratory Data Analysis (EDA) in Python</title><link>https://arrayfox.github.io/401402/post/A%20Practical%20Guide%20to%20Exploratory%20Data%20Analysis%20%28EDA%29%20in%20Python.html</link><description>Exploratory Data Analysis (EDA) is the first and most critical step in any data science workflow.  
+Before building models or drawing conclusions, you need to **understand your data**.
+
+In this post, we’ll walk through a practical EDA workflow using Python.
+
+---
+
+## Why EDA Matters
+
+EDA helps you:
+- Understand data distributions
+- Detect missing values and outliers
+- Identify relationships between variables
+- Avoid incorrect modeling assumptions
+
+Good EDA often saves more time than it costs.
+
+---
+
+## Tools We’ll Use
+
+The most common Python tools for EDA are:
+
+- **pandas** – data manipulation
+- **numpy** – numerical operations
+- **matplotlib** – basic plotting
+- **seaborn** – statistical visualizations
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns。</description><guid isPermaLink="true">https://arrayfox.github.io/401402/post/A%20Practical%20Guide%20to%20Exploratory%20Data%20Analysis%20%28EDA%29%20in%20Python.html</guid><pubDate>Wed, 24 Dec 2025 09:59:00 +0000</pubDate></item></channel></rss>
